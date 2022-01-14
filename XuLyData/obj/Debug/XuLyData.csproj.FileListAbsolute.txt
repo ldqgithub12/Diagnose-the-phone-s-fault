@@ -1,0 +1,8 @@
+C:\Users\2XHQ\Desktop\HK6\hcg\HCG_ChuanDoanHongHocDienThoai\XuLyData\bin\Debug\XuLyData.exe.config
+C:\Users\2XHQ\Desktop\HK6\hcg\HCG_ChuanDoanHongHocDienThoai\XuLyData\bin\Debug\XuLyData.exe
+C:\Users\2XHQ\Desktop\HK6\hcg\HCG_ChuanDoanHongHocDienThoai\XuLyData\bin\Debug\XuLyData.pdb
+C:\Users\2XHQ\Desktop\HK6\hcg\HCG_ChuanDoanHongHocDienThoai\XuLyData\obj\Debug\XuLyData.Properties.Resources.resources
+C:\Users\2XHQ\Desktop\HK6\hcg\HCG_ChuanDoanHongHocDienThoai\XuLyData\obj\Debug\XuLyData.csproj.GenerateResource.cache
+C:\Users\2XHQ\Desktop\HK6\hcg\HCG_ChuanDoanHongHocDienThoai\XuLyData\obj\Debug\XuLyData.csproj.CoreCompileInputs.cache
+C:\Users\2XHQ\Desktop\HK6\hcg\HCG_ChuanDoanHongHocDienThoai\XuLyData\obj\Debug\XuLyData.exe
+C:\Users\2XHQ\Desktop\HK6\hcg\HCG_ChuanDoanHongHocDienThoai\XuLyData\obj\Debug\XuLyData.pdb
